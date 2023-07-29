@@ -1,6 +1,6 @@
 # hyprworkspace
 
-Hyprworkspace is a simple [https://github.com/hyprwm/Hyprland](Hyprland) helper to open the next available empty workspace.
+Hyprworkspace is a simple [Hyprland](https://github.com/hyprwm/Hyprland) helper to open the next available empty workspace.
 
 ## Usage
 
